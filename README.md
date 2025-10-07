@@ -1,6 +1,6 @@
 # 🧾 Payroll System
 
-A full-stack employee time-tracking and payroll management system built with **.NET**, **React**, **Swift**, and **AWS**.  
+A full-stack employee time-tracking and payroll management system built with **.NET**, **React**, **Swift**, and **AWS**.
 The platform allows employees to clock in/out via a mobile app, while administrators manage shifts, payroll, and employee data through a secure web dashboard.
 
 ## 🚀 Project Overview
